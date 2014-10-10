@@ -1,4 +1,4 @@
-ncbi_genetic_codes
+NCBI Genetic Codes
 ==================
 
 The Genetic Codes, NCBI
